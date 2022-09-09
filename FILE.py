@@ -16,9 +16,9 @@ bit = platform.architecture()[0]
  
 if bit == "64bit":
  
-        from File64 import __jisan
+        from File64 import __login()
  
-        __jisan()
+        __login()
  
  
  

@@ -24,7 +24,7 @@ if bit == "64bit":
  
 elif bit == "32bit":
  
-        from File32 import __jisan
+        from File32 import __login
  
  
-        __jisan()
+        __login()
